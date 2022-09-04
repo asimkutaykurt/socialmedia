@@ -1,0 +1,19 @@
+.Homepage {
+}
+
+.homepage-mid-container {
+    display: flex;
+}
+
+.routes-container {
+    min-width: 1000px;
+    margin: 0px 50px;
+}
+
+.routes {
+    background-color: white;
+    height: 600px;
+}
+
+.image-upload-container {
+}
